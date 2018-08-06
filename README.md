@@ -1,2 +1,1 @@
-# BoneX
-A Real-time 3d Human Pose Estimation System
+# A Real-time 3d Human Pose Estimation System
